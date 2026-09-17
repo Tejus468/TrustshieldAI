@@ -156,9 +156,8 @@ flask run
 
 ## 👥 Team
 
-- Sai Tejus Y
-- Karthik Vankayalapati
-- Samarla Koushik
+- Yadagani Sai Tejus
+- Sugguna Akhil
 
 ## 🙏 Acknowledgements
 
